@@ -39,7 +39,7 @@ OR
 
 ```cmd
 > git clone https://github.com/erhabot/Base-Multi.git
-> cd wann
+> cd Base-Multi
 ```
 
 ## Install the package
