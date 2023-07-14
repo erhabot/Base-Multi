@@ -1,0 +1,30 @@
+{
+  "name": "Base-Multi",
+  "version": "1.0.0",
+  "description": "Hanya base simpel multi session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Base",
+    "Whatsapp",
+    "Bot",
+    "Simpel",
+    "Multi"
+  ],
+  "author": "erhabot",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "github:WhiskeySockets/Baileys#master",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "axios": "^0.27.2",
+    "chalk": "^4.1.2",
+    "child_process": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "moment-timezone": "^0.5.34",
+    "pino": "^7.0.5",
+    "qrcode-terminal": "^0.12.0",
+    "util": "^0.12.5"
+  }
+}
